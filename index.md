@@ -3,10 +3,14 @@
 ## Introduce
 
 ### Contact
-* Email: sjy5386@gmail.com
-* GitHub: https://github.com/sjy5386
+* Email: [sjy5386@gmail.com](mailto:sjy5386@gmail.com)
+* GitHub: [https://github.com/sjy5386](https://github.com/sjy5386)
 
 ## Skills
+### Languages
+* Python
+* Java, Kotlin
+* JavaScript
 
 ## Projects
 
