@@ -6,12 +6,16 @@
 - Email: [sjy5386@gmail.com](mailto:sjy5386@gmail.com)
 - GitHub: [https://github.com/sjy5386](https://github.com/sjy5386)
 
+---
+
 ## Skills
 
 ### Languages
 - Python
 - Java, Kotlin
 - JavaScript
+
+---
 
 ## Projects
 
@@ -46,6 +50,8 @@
 - 행동 불능 시에도 사용 가능한 응급 호출 서비스
 - C, Tizen, Raspberry Pi
 - [https://github.com/red-light-tizen/Red-Light](https://github.com/red-light-tizen/Red-Light)
+
+---
 
 ## Education
 * (2016.03 ~ 현재) 한성대학교 컴퓨터공학부
