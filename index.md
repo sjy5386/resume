@@ -15,6 +15,13 @@
 
 ## Projects
 
+### NetPTalk
+- 2020.11 ~ 2020.12
+- 인스턴트 메신저
+- Java, Kotlin, Android
+- [https://github.com/sjy5386/netptalk](https://github.com/sjy5386/netptalk)
+- [https://github.com/sjy5386/netptalk-server](https://github.com/sjy5386/netptalk-server)
+
 ### FBEye
 - 2020.07 ~ 2020.09
 - 시선 추적을 통한 온라인 시험 부정행위를 탐지 프로그램
