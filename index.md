@@ -8,15 +8,6 @@
 
 ---
 
-## Skills
-
-### Languages
-- Python
-- Java, Kotlin
-- JavaScript
-
----
-
 ## Projects
 
 ### NetPTalk
