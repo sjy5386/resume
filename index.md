@@ -28,6 +28,12 @@
 - Java
 - [https://github.com/Thunder-cut-2020/WhiteBoard-Server](https://github.com/Thunder-cut-2020/WhiteBoard-Server)
 
+### Typing Game
+- 2019.11 ~ 2019.12
+- 화면에 나타나는 단어를 타이핑하여 점수를 획득하는 게임
+- Java, Swing
+- [https://github.com/sjy5386/typing-game](https://github.com/sjy5386/typing-game)
+
 ### Red Light
 - 2019.08 ~ 2019.09
 - 행동 불능 시에도 사용 가능한 응급 호출 서비스
