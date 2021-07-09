@@ -1,6 +1,7 @@
 # 윤석진
 
 ## Introduce
+기술로 더 나은 세상을 만드는 개발자가 되고 싶습니다. 기존에 불편한 점들을 개선하고 새로운 것을 만드는 것을 좋아합니다.
 
 ### Contact
 - Email: [sjy5386@gmail.com](mailto:sjy5386@gmail.com)
