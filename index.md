@@ -19,8 +19,9 @@
 
 ### FBEye
 - 2020.07 ~ 2020.09
-- 시선 추적을 통한 온라인 시험 부정행위를 탐지 프로그램
+- 시선 추적을 통해 온라인 시험 부정 행위를 탐지하고 서버와 QR 코드 대조를 통해 실시간 접속 확인을 하는 프로젝트
 - Node.js, Express.js, MongoDB
+- 저는 이 프로젝트에서 node.js, JSON, TLS를 이용해 PC와 Mobile 기기 간의 연동을 하고 사용자의 접속을 실시간으로 인증하는 서버를 구현하고, express.js와 MongoDB를 이용해 관리자 전용 웹 페이지를 구현하였습니다. node.js 이용해 백엔드와 프론트엔드를 같은 언어로 개발할 수 있어서 덕분에 매우 편리했습니다. 하지만 node.js를 처음 사용해봐서 익숙하지 않은 node.js의 Promise 패턴과 async/await 패턴을 처음에는 이해하지 못해 어려웠으나 빠르게 이해를 하고 이를 프로젝트 내에서 적극적으로 활용을 했습니다. 그 결과, 실시간 인증으로 인한 빈번한 I/O에도 우수한 성능을 보여주었고, 생산성도 향상되어 2개월이 안 되는 짧은 기간에도 프로젝트를 성공적으로 해냈습니다. 이 프로젝트로 교내 대회에 참가하여 동상을 받았습니다.
 - [https://github.com/ddoo-ddah/fbeye-processing-server](https://github.com/ddoo-ddah/fbeye-processing-server)
 - [https://github.com/ddoo-ddah/fbeye-web-server](https://github.com/ddoo-ddah/fbeye-web-server)
 
